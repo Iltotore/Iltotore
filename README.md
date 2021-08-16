@@ -5,3 +5,4 @@ I mainly use Scala and Java.
 
 Currently working on:
 - [Iron](https://github.com/Iltotore/Iron)
+- [Fluent4s](https://github.com/fluent4s/fluent4s)
