@@ -11,5 +11,5 @@ Currently working on:
 TODO in 2022:
 - [ ] [CYLang](https://github.com/Iltotore/cylang) v0.1.0
 - [ ] [Iron](https://github.com/Iltotore/iron) v2.0.0
-- [ ] ScalaNative `java.util.Scanner` contribution
-- [ ] Mill's ScalaNative module contribution
+- [ ] [ScalaNative](https://github.com/scala-native/scala-native) `java.util.Scanner` contribution
+- [ ] [Mill](https://github.com/com-lihaoyi/mill)'s ScalaNative module contribution
