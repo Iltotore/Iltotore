@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Raphaël Fromentin, I'm 17 years old and I study at CYTech.
+My name is Raphaël Fromentin, I'm 18 years old and I study at CYTech.
 I mainly use Scala and Java.
 
 Currently working on:
