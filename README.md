@@ -1,7 +1,6 @@
-### Hi there 👋
+Student at CY Tech in France and Scala enthusiast.
 
-My name is Raphaël Fromentin, I'm 18 years old and I study at CYTech.
-I mainly use Scala and Java.
+I enjoy making libraries and productivity-based tools.
 
 Currently working on:
 - [Iron](https://github.com/Iltotore/Iron)
