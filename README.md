@@ -7,7 +7,7 @@ Currently working on:
 - [CYLang](https://github.com/Iltotore/cylang)
 
 
-TODO in 2022:
-- [x] [CYLang](https://github.com/Iltotore/cylang) v0.1.0
+TODO in 2023:
 - [ ] [Iron](https://github.com/Iltotore/iron) v2.0.0
-- [ ] [Mill](https://github.com/com-lihaoyi/mill)'s ScalaNative module contribution
+- [ ] Finish an article about Scala as the first programming language taught
+- [ ] Maybe a SIP for [multi-level enums](https://contributors.scala-lang.org/t/proposal-for-multi-level-enums/3344/1)
