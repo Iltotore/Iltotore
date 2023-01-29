@@ -8,6 +8,6 @@ Currently working on:
 
 
 TODO in 2023:
-- [ ] [Iron](https://github.com/Iltotore/iron) v2.0.0
+- [x] [Iron](https://github.com/Iltotore/iron) v2.0.0
 - [ ] Finish an article about Scala as the first programming language taught
 - [ ] Maybe a SIP for [multi-level enums](https://contributors.scala-lang.org/t/proposal-for-multi-level-enums/3344/1)
