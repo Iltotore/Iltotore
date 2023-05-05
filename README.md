@@ -11,5 +11,6 @@ TODO in 2023:
 - [x] [Iron](https://github.com/Iltotore/iron) v2.0.0
 - [x] Finish an article about Scala as the first programming language taught
 - [x] [Iron](https://github.com/Iltotore/iron) v2.1.0
-- [ ] A Mill PoC in Scala 3
+- [ ] Other side projects
 - [ ] Maybe a SIP for [multi-level enums](https://contributors.scala-lang.org/t/proposal-for-multi-level-enums/3344/1)
+- [ ] A Mill PoC in Scala 3 (waiting for some Dotty issues to be solved)
